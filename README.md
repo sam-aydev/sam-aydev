@@ -1,6 +1,6 @@
 # Hi, I'm Adetunji Samuel 👋
 
-### 🚀 Azure Data Engineer | SQL • PySpark • Data Pipelines • ETL • Databricks • Data Warehousing
+### 🚀 Azure Data Engineer | SQL • PySpark • Data Pipelines • ETL • Databricks • Apache Airflow • Data Warehousing
 
 ---
 
@@ -23,6 +23,6 @@ I'm an **Azure Data Engineer** and **Software Developer** who builds scalable da
 
 ## 📬 Contact Me
 
-💌 **Email:** [your@email.com](mailto:samueladetunji000@gmail.com)
+💌 **Email:** [samueladetunji000@gmail.com](mailto:samueladetunji000@gmail.com)
 
 ### ⭐ If you like my work, consider giving my repositories a star!
